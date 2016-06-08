@@ -1,25 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:30.575961
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 佛說洛叉陀羅尼經
 #+PROPERTY: CBETA_ID T21n1390
 #+PROPERTY: ID KR6j0622
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1390
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0622_T_000-0907b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0622_T_001-0907b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1390¶
-
- 佛說洛叉陀羅尼經¶
+No. 1390¶
+佛說洛叉陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
-爾時世尊告阿難言。汝當諦聽今我與汝。宣¶
+爾事世尊告阿難言。汝當諦聽今我與汝。宣¶
 說洛叉陀羅尼。是陀羅尼難得值遇。由如諸¶
 佛。出於世間。阿難若有眾生。得此陀羅尼能¶
 受持者。是人所獲功德如持洛叉佛無異。能¶
